@@ -16,6 +16,7 @@ import java.awt.*;
  * @author LAB04
  */
 //paso 2 -heredar la classe desde JFrame
+
 public class Window extends JFrame
 {
     // paso 3- declarar los elementos a utilizar
